@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 😄 I speak fluent French and stackoverflow
 - ⚡ Fun fact: I ran for 1h05' after 12h of coding
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" /> -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react)
