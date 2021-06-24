@@ -1,6 +1,7 @@
 ### Hi I'm Josue Lubaki 👋
 
 <!--
+https://github.com/anuraghazra/github-readme-stats
 **josue-lubaki/josue-lubaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,4 +25,4 @@ Here are some ideas to get you started:
 - 😄 I speak fluent French and stackoverflow
 - ⚡ Fun fact: I ran for 1h05' after 12h of coding
 
-<image src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&&show_icons=true&title_color=000&icon_color=F28400&text_color=ffffff&bg_color=007AB3">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react)
