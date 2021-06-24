@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Josue Lubaki 👋
 
 <!--
 **josue-lubaki/josue-lubaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a fish sales website
+- 🌱 I’m currently learning Angular and Spring
+- 💬 Ask me about Android apps and website, especially the backend
+- 🤔 I'm a jack of all trades
+- 📫 How to reach me: <br> [Linkedln - @josue-lubaki](https://www.linkedin.com/in/josue-lubaki/) <br>
+[facebook - @josuelubaki](https://www.facebook.com/josue.lubaki)<br>
+[instagram - @josue_lubaki](https://www.instagram.com/josue_lubaki/)
+- 😄 I speak fluent French and stackoverflow
+- ⚡ Fun fact: I ran for 1h05' after 12h of coding
+
+<image src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&&show_icons=true&title_color=000&icon_color=F28400&text_color=ffffff&bg_color=007AB3">
