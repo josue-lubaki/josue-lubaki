@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 <p> 
 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=yeblu)](https://github.com/josue-lubaki/sapp) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=persistantManager&theme=gotham)](https://github.com/josue-lubaki/persistantManager)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=persistantManager&theme=yeblu)](https://github.com/josue-lubaki/persistantManager)
  
 </p>
 <p> 
 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Angular-Pratices&theme=slateorange)](https://github.com/josue-lubaki/Angular-Pratices) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ng-shop-pratice&theme=gruvbox)](https://github.com/josue-lubaki/ng-shop-pratice) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ng-shop-pratice&theme=slateorange)](https://github.com/josue-lubaki/ng-shop-pratice) 
  
 </p>
