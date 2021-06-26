@@ -36,4 +36,16 @@ Here are some ideas to get you started:
  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react)](https://github.com/josue-lubaki/github-readme-stats) 
 </p>
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=josue-lubaki&theme=gotham)](https://github.com/josue-lubaki/josue-lubaki) -->
+
+<p> 
+
+ &emsp;&emsp;&emsp;&emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=react)](https://github.com/josue-lubaki/sapp) 
+ &emsp;&emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=persistantManager&theme=react)](https://github.com/josue-lubaki/persistantManager)
+ 
+</p>
+<p> 
+
+ &emsp;&emsp;&emsp;&emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Angular-Pratices&theme=react)](https://github.com/josue-lubaki/Angular-Pratices) 
+ &emsp;&emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ng-shop-pratice&theme=react)](https://github.com/josue-lubaki/ng-shop-pratice)
+ 
+</p>
