@@ -31,11 +31,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook&langs_count=5&theme=react)](https://github.com/josue-lubaki/github-readme-stats)
  
 </p>
-<p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=490px height=320px /> 
-<!--   &emsp;<img src="https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react" width=440px /> -->
-</p>
 
-<p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react" width=440px /> 
-<!--    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki)](https://github.com/josue-lubaki/github-readme-stats)  -->
+<p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=490px height=320px />
+ 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react)](https://github.com/josue-lubaki/github-readme-stats) 
 </p>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=josue-lubaki&theme=gotham)](https://github.com/josue-lubaki/josue-lubaki) -->
