@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 [instagram - @josue_lubaki](https://www.instagram.com/josue_lubaki/)
 - 😄 I speak fluent French and stackoverflow
 - ⚡ Fun fact: I ran for 1h05' after 12h of coding
-<img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" />
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react) -->
-<img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=480px height=320px />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" /> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react) ____
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook&langs_count=5)](https://github.com/josue-lubaki/github-readme-stats)
+<img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=480px height=320px /> 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki)](https://github.com/josue-lubaki/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=josue-lubaki&theme=gotham)](https://github.com/josue-lubaki/josue-lubaki) -->
