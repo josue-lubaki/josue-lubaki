@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 <p> 
 
- &emsp;&emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=react)](https://github.com/josue-lubaki/sapp) 
- &emsp;&emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=persistantManager&theme=react)](https://github.com/josue-lubaki/persistantManager)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=react)](https://github.com/josue-lubaki/sapp) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=persistantManager&theme=react)](https://github.com/josue-lubaki/persistantManager)
  
 </p>
 <p> 
 
- &emsp;&emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Angular-Pratices&theme=react)](https://github.com/josue-lubaki/Angular-Pratices) 
- &emsp;&emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ng-shop-pratice&theme=react)](https://github.com/josue-lubaki/ng-shop-pratice)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Angular-Pratices&theme=react)](https://github.com/josue-lubaki/Angular-Pratices) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ng-shop-pratice&theme=react)](https://github.com/josue-lubaki/ng-shop-pratice) 
  
 </p>
