@@ -57,3 +57,10 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ng-shop-pratice&theme=slateorange)](https://github.com/josue-lubaki/ng-shop-pratice) 
  
 </p>
+
+<p> 
+
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=admin&theme=ayu-mirage)](https://github.com/josue-lubaki/admin) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ngshop&theme=ayu-mirage)](https://github.com/josue-lubaki/ngshop)
+ 
+</p>
