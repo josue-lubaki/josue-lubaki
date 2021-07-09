@@ -21,13 +21,30 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ## Hi I'm Josue Lubaki 👋
 - 🔭 I’m currently working on a fish sales website
 - 🌱 I’m currently learning Angular and Spring
-- 💬 Ask me about Android apps and website, especially the backend
 - 🤔 I'm a jack of all trades
-- 📫 How to reach me: <br> [Linkedln - @josue-lubaki](https://www.linkedin.com/in/josue-lubaki/) <br>
-[facebook - @josuelubaki](https://www.facebook.com/josue.lubaki)<br>
-[instagram - @josue_lubaki](https://www.instagram.com/josue_lubaki/)
+- 📫 How to reach me: <br> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/)
+[![LinkedIn Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=2168a6)](https://www.facebook.com/josue.lubaki)
+[![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/josue_lubaki/)
 - 😄 I speak fluent French and stackoverflow
 - ⚡ Fun fact: I am able to run 1 hour after 12 hours of coding
+
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=f06060&color=dd0031)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=fcdc00)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=blue&color=3178c6)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=dd0031)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=green&color=6db33f)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=c786e3&color=6534ab)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=11924f)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=f4a339)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=orange&color=e54d26)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=5d99d9&color=006fb9)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=e6cbf5&color=cf649a)
+![](https://img.shields.io/badge/Code-Oracle-informational?style=flat&logo=oracle&logoColor=red&color=dd0031)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=black&color=white)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=githlab&logoColor=fca326&color=e24329)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=adobexd&logoColor=ffd9f2&color=9c7494)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=fca326&color=fca326)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=ffd9f2&color=dd0031)
 <p>
  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" /> -->
@@ -43,6 +60,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
  <p>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=620px height=480px/></a>
  </p>
+ 
 </p>
 
 <p> 
@@ -51,6 +69,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=persistantManager&theme=yeblu)](https://github.com/josue-lubaki/persistantManager)
  
 </p>
+
 <p> 
 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Angular-Pratices&theme=slateorange)](https://github.com/josue-lubaki/Angular-Pratices) 
