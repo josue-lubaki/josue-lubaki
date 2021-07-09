@@ -43,7 +43,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=black&color=white)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=githlab&logoColor=fca326&color=e24329)
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=adobexd&logoColor=ffd9f2&color=9c7494)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=fca326&color=fca326)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=fd6c35&color=fd6c35)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=ffd9f2&color=dd0031)
 <p>
  
