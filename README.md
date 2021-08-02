@@ -75,7 +75,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <p> 
 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Angular-Pratices&theme=slateorange)](https://github.com/josue-lubaki/Angular-Pratices) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ng-shop-pratice&theme=slateorange)](https://github.com/josue-lubaki/ng-shop-pratice) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ng-shop-pratice&theme=slateorange)](https://josue-lubaki.github.io/ngshop) 
  
 </p>
 
