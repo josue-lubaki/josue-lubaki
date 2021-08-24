@@ -81,8 +81,8 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 <p> 
 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=admin&theme=ayu-mirage)](https://github.com/josue-lubaki/admin) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ngshop&theme=ayu-mirage)](https://github.com/josue-lubaki/ngshop)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=pska&theme=ayu-mirage)](https://github.com/josue-lubaki/pska) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=psk&theme=ayu-mirage)](https://github.com/josue-lubaki/psk)
  
 </p>
 
