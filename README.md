@@ -27,14 +27,14 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 [![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/josue_lubaki/)
 - 😄 I speak fluent French and stackoverflow
 - ⚡ Fun fact: I am able to run 1 hour after 12 hours of coding
-
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=f06060&color=dd0031)
+<!-- 
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=f06060&color=dd0031) -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=fcdc00)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=blue&color=3178c6)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=dd0031)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=5d99d9&color=3178c6)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=green&color=6db33f)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=c786e3&color=6534ab)
+<!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=5d99d9&color=3178c6) -->
+<!-- ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=green&color=6db33f) -->
+<!-- ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=c786e3&color=6534ab) -->
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=11924f)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=f4a339)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=orange&color=e54d26)
