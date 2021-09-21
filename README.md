@@ -20,7 +20,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 ## Hi I'm Josue Lubaki 👋
 - 🔭 I’m currently working on a fish sales website
-- 🌱 I’m currently learning Angular and SpringBoot
+- 🌱 I’m currently learning Angular
 - 🤔 I'm a jack of all trades
 - 📫 How to reach me: <br> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/)
 [![LinkedIn Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=2168a6)](https://www.facebook.com/josue.lubaki)
