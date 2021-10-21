@@ -81,12 +81,12 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
  
 </p>
 
-<p> 
+<!-- <p> 
 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=pska&theme=ayu-mirage)](https://github.com/josue-lubaki/pska) 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=psk&theme=ayu-mirage)](https://github.com/josue-lubaki/psk)
  
-</p>
+</p> -->
 
 <p> 
 
