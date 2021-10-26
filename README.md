@@ -69,14 +69,14 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 <p> 
 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=yeblu)](https://github.com/josue-lubaki/sapp) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=yeblu)](https://github.com/josue-lubaki/sapp) 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=persistantManager&theme=yeblu)](https://github.com/josue-lubaki/persistantManager)
  
 </p>
 
 <p> 
 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=slateorange)](https://github.com/josue-lubaki/FishAppFrontend) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=slateorange)](https://github.com/josue-lubaki/FishAppFrontend) 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=zephuris&theme=slateorange)](https://github.com/josue-lubaki/zephuris) 
  
 </p>
@@ -90,7 +90,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 <p> 
 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=website-simple-1&theme=dracula)](https://github.com/josue-lubaki/website-simple-1) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=website-simple-1&theme=dracula)](https://github.com/josue-lubaki/website-simple-1) 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=website-simple-4&theme=dracula)](https://github.com/josue-lubaki/website-simple-4)
  
 </p>
