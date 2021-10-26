@@ -55,8 +55,8 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
  
 </p>
 
-<p> <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=320px height=360px />
-&emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=500px height=360px/></a>
+<p> <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=300px height=360px />
+&emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=480px height=360px/></a>
 <!--  &emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/6fc2f622-87b1-48c8-9524-f1d04fce20cf.svg" width=500px height=360px/></a> -->
  
 <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react&layout=compact) -->
