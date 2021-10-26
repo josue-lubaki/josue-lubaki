@@ -50,7 +50,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <p>
  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" /> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&hide=issues&show_icons=true&border_color=F5C473&theme=react) &emsp;&emsp;&emsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&hide=issues&show_icons=true&border_color=F5C473&theme=react)&emsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook&langs_count=5&theme=react)
  
 </p>
