@@ -18,7 +18,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width=100%/>
 
-## Hi I'm Josue Lubaki 👋
+## Hi I'm Josue Lubaki 👋 [![Everything Is AWESOME](https://imgur.com/e1Ivyq4.png)](https://www.buymeacoffee.com/josue.lubaki "Buy for me a coffee")
 - 🔭 I’m currently working on a fish sales website
 - 🌱 I’m currently learning Angular
 - 🤔 I'm a jack of all trades
