@@ -19,14 +19,14 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width=100%/>
 
 ## Hi I'm Josue Lubaki 👋 [![Everything Is AWESOME](https://imgur.com/e1Ivyq4.png)](https://www.buymeacoffee.com/josue.lubaki "Buy me a coffee")
-- 🔭 I’m currently working on a fish sales website
-- 🌱 I’m currently learning Angular
+<!-- - 🔭 I’m currently working on a fish sales website
+- 🌱 I’m currently learning Angular -->
 - 🤔 I'm a jack of all trades
 - 📫 How to reach me: <br> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/)
 [![LinkedIn Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=2168a6)](https://www.facebook.com/josue.lubaki)
 [![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/josue_lubaki/)
 - 😄 I speak fluent French and stackoverflow
-- ⚡ Fun fact: I am able to run 1 hour after 12 hours of coding
+<!-- - ⚡ Fun fact: I am able to run 1 hour after 12 hours of coding -->
 <!-- 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=f06060&color=dd0031) -->
 <!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=5d99d9&color=3178c6) -->
