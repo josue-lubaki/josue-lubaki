@@ -78,7 +78,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=slateorange)](https://github.com/josue-lubaki/FishAppFrontend) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=zephuris&theme=slateorange)](https://github.com/josue-lubaki/zephuris) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=NatureCollection&theme=dracula)](https://github.com/josue-lubaki/NatureCollection) 
  
 </p>
 
@@ -91,7 +91,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 <p> 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=website-simple-1&theme=dracula)](https://github.com/josue-lubaki/website-simple-1) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=website-simple-4&theme=dracula)](https://github.com/josue-lubaki/website-simple-4)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Game2048&theme=dracula)](https://github.com/josue-lubaki/Game2048) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=GameOfFifteen&theme=dracula)](https://github.com/josue-lubaki/GameOfFifteen)
  
 </p>
