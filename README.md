@@ -42,6 +42,8 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=orange&color=e54d26)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=5d99d9&color=006fb9)
 ![](https://img.shields.io/badge/Style-Scss-informational?style=flat&logo=Scss&logoColor=e6cbf5&color=cf649a)
+[![wakatime](https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg)](https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7)
+<!-- [![github](https://img.shields.io/github/followers/josue-lubaki?logo=github&style=plastic)](https://github.com/osue-lubaki?tab=followers) -->
 <!-- ![](https://img.shields.io/badge/Code-Oracle-informational?style=flat&logo=oracle&logoColor=red&color=dd0031) -->
 <!-- ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=black&color=white) -->
 <!-- ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=githlab&logoColor=fca326&color=e24329) -->
