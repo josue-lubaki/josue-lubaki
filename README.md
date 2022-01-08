@@ -62,7 +62,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p>
  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" /> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,python&langs_count=5&theme=react)&emsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,python,html,c%23,C&langs_count=5&theme=react)&emsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&hide=issues&show_icons=true&border_color=F5C473&theme=react)
 </p>
 
