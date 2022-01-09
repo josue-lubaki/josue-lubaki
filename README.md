@@ -88,7 +88,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=slateorange)](https://github.com/josue-lubaki/FishAppFrontend) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=NatureCollection&theme=dracula)](https://github.com/josue-lubaki/NatureCollection) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishApp-Android&theme=dracula)](https://github.com/josue-lubaki/FishApp-Android) 
  
 </p>
 
