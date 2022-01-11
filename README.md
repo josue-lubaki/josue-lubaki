@@ -98,10 +98,10 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=psk&theme=ayu-mirage)](https://github.com/josue-lubaki/psk)
  
 </p> -->
-
+<!-- 
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Game2048&theme=dracula)](https://github.com/josue-lubaki/Game2048) 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=GameOfFifteen&theme=dracula)](https://github.com/josue-lubaki/GameOfFifteen)
  
-</p>
+</p> -->
