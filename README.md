@@ -32,7 +32,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <!-- [![github](https://img.shields.io/github/followers/josue-lubaki?logo=github&style=plastic)](https://github.com/osue-lubaki?tab=followers) -->
 <!-- ## Hi I'm Josue Lubaki 👋 [![Everything Is AWESOME](https://imgur.com/e1Ivyq4.png)](https://www.buymeacoffee.com/josue.lubaki "Buy me a coffee") -->
 
-Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student in Quebec, you can easily find me on my social networks
+Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student in Quebec,<br> you can easily find me on my social networks
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/) 
 [![LinkedIn Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=2168a6)](https://www.facebook.com/josue.lubaki)
@@ -63,11 +63,10 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" /> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,c%23,C&langs_count=5&theme=react)&emsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&hide=issues&show_icons=true&border_color=F5C473&theme=react)
-</p>
-
-<p> <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=300px height=360px />
-&emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=500px height=360px/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=500px height=360px/></a>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&hide=issues&show_icons=true&border_color=F5C473&theme=react) -->
+<!--   <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=300px height=360px /> -->
+<!-- &emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=500px height=360px/></a> -->
 <!--  &emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/6fc2f622-87b1-48c8-9524-f1d04fce20cf.svg" width=500px height=360px/></a> -->
  
 <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react&layout=compact) -->
