@@ -81,7 +81,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=yeblu)](https://github.com/josue-lubaki/sapp) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=persistantManager&theme=yeblu)](https://github.com/josue-lubaki/persistantManager)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=awesome-interview&theme=yeblu)](https://github.com/josue-lubaki/awesome-interview)
  
 </p>
 
