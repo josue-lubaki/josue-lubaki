@@ -120,14 +120,16 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Application-Android&theme=ayu-mirage)](https://github.com/josue-lubaki/Application-Android) 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Location-App&theme=ayu-mirage)](https://github.com/josue-lubaki/Location-App)
 </p>
-
+<br>
+<br>
 
 ## Developpement Backend - API
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppBackend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppBackend) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FastAPI-Python-Tutorial&theme=ayu-mirage)](https://github.com/josue-lubaki/FastAPI-Python-Tutorial)
 </p>
-
+<br>
+<br>
 
 ## Developpement Frontend (website)
 <p> 
