@@ -137,6 +137,8 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppFrontend) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=zephuris&theme=ayu-mirage)](https://github.com/josue-lubaki/zephuris)
  
 </p>
+<br>
+<br>
 
 ## Divers
 <p>
