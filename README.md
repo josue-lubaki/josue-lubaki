@@ -126,9 +126,9 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 ### Developpement Frontend (website)
 <p> 
-  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppFrontend) 
- &emsp;  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-Client)
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-Client) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppFrontend) 
+ 
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=zephuris&theme=ayu-mirage)](https://github.com/josue-lubaki/zephuris) -->
  
 </p>
