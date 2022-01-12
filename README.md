@@ -102,6 +102,6 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FastAPI-Python-Tutorial&theme=ayu-mirage)](https://github.com/josue-lubaki/FastAPI-Python-Tutorial) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishApp-Android&theme=dracula)](https://github.com/josue-lubaki/FishApp-Android)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppAndroid&theme=dracula)](https://github.com/josue-lubaki/FishAppAndroid)
  
 </p>
