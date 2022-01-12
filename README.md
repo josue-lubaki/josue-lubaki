@@ -104,31 +104,48 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 </p>
 
 <!--  REPARTITION -->
-### Developpement Mobile Android
+## Developpement Mobile Android
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=ayu-mirage)](https://github.com/josue-lubaki/sapp) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppAndroid&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppAndroid)
-<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=awesome-interview&theme=ayu-mirage)](https://github.com/josue-lubaki/awesome-interview) -->
- 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppAndroid&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppAndroid) 
+</p>
+<p>
+	
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=NotesApp&theme=ayu-mirage)](https://github.com/josue-lubaki/NotesApp) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=App-Meteo&theme=ayu-mirage)](https://github.com/josue-lubaki/App-Meteo)
+</p>
+<p>
+	
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Application-Android&theme=ayu-mirage)](https://github.com/josue-lubaki/Application-Android) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Location-App&theme=ayu-mirage)](https://github.com/josue-lubaki/Location-App)
 </p>
 
 
-### Developpement Backend - API
+## Developpement Backend - API
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppBackend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppBackend) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FastAPI-Python-Tutorial&theme=ayu-mirage)](https://github.com/josue-lubaki/FastAPI-Python-Tutorial)
 </p>
-<!-- <p>
-  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-server&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-server) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Analyzer-JavaCC&theme=ayu-mirage)](https://github.com/josue-lubaki/Analyzer-JavaCC)
-</p> -->
 
-### Developpement Frontend (website)
+
+## Developpement Frontend (website)
 <p> 
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-Client) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppFrontend) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppFrontend) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=zephuris&theme=ayu-mirage)](https://github.com/josue-lubaki/zephuris)
  
-<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=zephuris&theme=ayu-mirage)](https://github.com/josue-lubaki/zephuris) -->
- 
+</p>
+
+## Divers
+<p>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=awesome-interview&theme=ayu-mirage)](https://github.com/josue-lubaki/awesome-interview) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=UI-Design-Windows-Forms&theme=ayu-mirage)](https://github.com/josue-lubaki/UI-Design-Windows-Forms) 
+</p>
+<p>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Analyzer-JavaCC&theme=ayu-mirage)](https://github.com/josue-lubaki/Analyzer-JavaCC) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=J3-Analyzer&theme=ayu-mirage)](https://github.com/josue-lubaki/J3-Analyzer)
+</p>
+<p>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-Client) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-server&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-server)
 </p>
