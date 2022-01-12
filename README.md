@@ -87,7 +87,8 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=slateorange)](https://github.com/josue-lubaki/FishAppFrontend) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishApp-Android&theme=dracula)](https://github.com/josue-lubaki/FishApp-Android) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppBackend&theme=slateorange)](https://github.com/josue-lubaki/FishAppBackend) 
+<!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishApp-Android&theme=dracula)](https://github.com/josue-lubaki/FishApp-Android)  -->
  
 </p>
 
@@ -101,6 +102,6 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FastAPI-Python-Tutorial&theme=ayu-mirage)](https://github.com/josue-lubaki/FastAPI-Python-Tutorial) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Game2048&theme=dracula)](https://github.com/josue-lubaki/Game2048)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishApp-Android&theme=dracula)](https://github.com/josue-lubaki/FishApp-Android)
  
 </p>
