@@ -59,9 +59,9 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 	  "Python"
   ],
   "development": [
-	  "Developpement Application Mobile",
-	  "Developpement Backend - API",
-	  "Developpement Frontend (website)"
+	  "Application Mobile (Android)",
+	  "Backend - API",
+	  "Frontend (website)"
   ],
   "country": "Canada"
 }
