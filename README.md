@@ -22,7 +22,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=ed8da2&color=7f52ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=fcdc00)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=blue&color=3178c6)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=dd0031&color=dd0031)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=ed8da2&color=dd0031)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=yellow&color=3178c6)<br>
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=green&color=11924f)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=11924f)
