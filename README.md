@@ -85,19 +85,24 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <!-- ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=adobexd&logoColor=ffd9f2&color=9c7494) -->
 <!-- ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=fd6c35&color=fd6c35) -->
 <!-- ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=ffd9f2&color=dd0031) -->
-<p>
+
  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" /> -->
+	
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+<p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,c%23,C&langs_count=5&theme=ayu-mirage)&emsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josue-lubaki&theme=ayu-mirage)](https://github.com/josue-lubaki/)
-<!--   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=500px height=360px/></a> -->
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react&layout=compact)
+<!--   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=400px height=360px/></a>	 -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josue-lubaki&theme=ayu-mirage)](https://github.com/josue-lubaki/) -->
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&hide=issues&show_icons=true&border_color=F5C473&theme=react) -->
 <!--   <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width=300px height=360px /> -->
-<!-- &emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=500px height=360px/></a> -->
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=400px height=360px/></a> -->
 <!--  &emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/6fc2f622-87b1-48c8-9524-f1d04fce20cf.svg" width=500px height=360px/></a> -->
  
-<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react&layout=compact) -->
+<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    -->
 
 <!--  <p>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=480px height=360px/></a>
