@@ -92,9 +92,9 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 <p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,c%23,C&langs_count=5&theme=ayu-mirage)&emsp;
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react&layout=compact)
-<!--   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=400px height=360px/></a>	 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,c%23,C&langs_count=5&theme=ayu-mirage)
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josue_lubaki&theme=react&layout=compact) -->
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=400px height=360px/></a>	
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josue-lubaki&theme=ayu-mirage)](https://github.com/josue-lubaki/) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&hide=issues&show_icons=true&border_color=F5C473&theme=react) -->
