@@ -19,6 +19,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width=100%/>
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=dd0031)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=green&color=11924f)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=ed8da2&color=7f52ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=fcdc00)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=blue&color=3178c6)
@@ -54,7 +55,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
   "portfolio" : "https://josue-lubaki.ca",
   "profession": "student",
   "languages": [
-	  "Java",
+	  "Java / SpringBoot",
 	  "Kotlin",
 	  "JavaScript",
 	  "TypeScript / Angular",
