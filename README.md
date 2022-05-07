@@ -126,7 +126,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Traductor-API&theme=ayu-mirage)](https://github.com/josue-lubaki/Traductor-API) &emsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Traductor-API&theme=ayu-mirage)](https://github.com/josue-lubaki/Traductor-API) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Springulart&theme=ayu-mirage)](https://github.com/josue-lubaki/Springulart)
 </p>
 <br>
 <br>
@@ -134,7 +134,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 ## Developpement Frontend (website)
 <p> 
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppFrontend) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=zephuris&theme=ayu-mirage)](https://github.com/josue-lubaki/zephuris)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppFrontend&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppFrontend) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=angulart&theme=ayu-mirage)](https://github.com/josue-lubaki/angulart)
  
 </p>
 <br>
