@@ -57,8 +57,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 	  "Java / SpringBoot",
 	  "Kotlin",
 	  "JavaScript",
-	  "TypeScript / Angular",
-	  "Python"
+	  "TypeScript / Angular"
   ],
   "development": [
 	  "Application Mobile (Android)",
