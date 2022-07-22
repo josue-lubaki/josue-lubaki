@@ -43,6 +43,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=josue-lubaki&theme=onedark&rank=S,SS,SSS,AAA,AA,A&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B)](https://github.com/josue-lubaki/github-readme-activity-graph)
 
 <!-- 
 - 🤔 I'm a jack of all trades
