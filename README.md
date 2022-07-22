@@ -41,9 +41,9 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student in Quebec,<br> you can easily find me on my social networks
  -->
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=josue-lubaki&theme=onedark&rank=S,SS,SSS,AAA,AA,A&margin-w=15)](https://github.com/josue-lubaki/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=josue-lubaki&theme=onedark&rank=S,SS,SSS,AAA,AA,A&margin-w=15)](https://josue-lubaki.ca)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B)](https://github.com/josue-lubaki/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B)](https://josue-lubaki.ca)
 
 <!-- 
 - 🤔 I'm a jack of all trades
