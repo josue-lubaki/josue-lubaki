@@ -26,7 +26,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=green&color=11924f)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=dd0031)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=ed8da2&color=7f52ff)
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=green&color=11924f)<br>
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=green&color=11924f)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=11924f)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=f4a339)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=orange&color=orange)
