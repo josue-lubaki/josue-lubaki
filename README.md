@@ -56,7 +56,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
   "lname" : "Lubaki",
   "email" : "josue.lubaki@uqtr.ca",
   "portfolio" : "https://josue-lubaki.ca",
-  "profession": "student",
+  "profession": "Web Developer",
   "languages": [
 	  "Java / SpringBoot",
 	  "Kotlin",
