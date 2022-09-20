@@ -35,7 +35,6 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=3178c6&color=3178c6)<br>
 [![wakatime](https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg)](https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7)<br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/) 
-[![LinkedIn Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=2168a6)](https://www.facebook.com/josue.lubaki)
 [![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/josue_lubaki/) <br>
 <!-- [![github](https://img.shields.io/github/followers/josue-lubaki?logo=github&style=plastic)](https://github.com/osue-lubaki?tab=followers) -->
 <!-- ## Hi I'm Josue Lubaki 👋 [![Everything Is AWESOME](https://imgur.com/e1Ivyq4.png)](https://www.buymeacoffee.com/josue.lubaki "Buy me a coffee") -->
