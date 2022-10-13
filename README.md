@@ -65,6 +65,14 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 	  "JavaScript / nodeJS",
 	  "TypeScript / Angular / React"
   ],
+  "tools": [
+	"Visual Studio Code"
+	"Android Studio",
+	"IntelliJ",
+	"Postman",
+	"Apollo",
+	"XD Adobe"
+  ],
   "development": [
 	  "Application Mobile (Android)",
 	  "Backend - API",
