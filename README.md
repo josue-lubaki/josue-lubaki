@@ -59,11 +59,13 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
   "email" : "josue.lubaki@uqtr.ca",
   "portfolio" : "https://josue-lubaki.ca",
   "profession": "Web Developer",
-  "languages": [
+  "technologies": [
 	  "Java / SpringBoot",
 	  "Kotlin",
 	  "JavaScript / nodeJS",
-	  "TypeScript / Angular / React"
+	  "TypeScript",
+	  "Angular",
+	  "React / Redux"
   ],
   "tools": [
 	"Visual Studio Code"
