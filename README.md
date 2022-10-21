@@ -159,10 +159,14 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=awesome-interview&theme=ayu-mirage)](https://github.com/josue-lubaki/awesome-interview) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=UI-Design-Windows-Forms&theme=ayu-mirage)](https://github.com/josue-lubaki/UI-Design-Windows-Forms) 
 </p>
+
+<!--
 <p>
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Analyzer-JavaCC&theme=ayu-mirage)](https://github.com/josue-lubaki/Analyzer-JavaCC) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=J3-Analyzer&theme=ayu-mirage)](https://github.com/josue-lubaki/J3-Analyzer)
 </p>
+-->
+
 <p>
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-Client) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-server&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-server)
