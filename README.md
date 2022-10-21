@@ -79,7 +79,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
   ],
   "development": [
 	  "Application Mobile (Android)",
-	  "Backend - API",
+	  "Backend - REST API",
 	  "Frontend (website)"
   ],
   "country": "Canada"
