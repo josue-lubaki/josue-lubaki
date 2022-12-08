@@ -47,7 +47,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B)](https://github.com/josue-lubaki) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B)](https://github.com/josue-lubaki)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B&area=true&area_color=13A830)](https://github.com/josue-lubaki)
 
 <!-- 
 - 🤔 I'm a jack of all trades
