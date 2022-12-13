@@ -125,14 +125,20 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 </p>
 <p>
 	
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=NotesApp&theme=ayu-mirage)](https://github.com/josue-lubaki/NotesApp) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=App-Meteo&theme=ayu-mirage)](https://github.com/josue-lubaki/App-Meteo)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Quizzes&theme=ayu-mirage)](https://github.com/josue-lubaki/Quizzes) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=NotesApp&theme=ayu-mirage)](https://github.com/josue-lubaki/NotesApp)
 </p>
 <p>
 	
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Application-Android&theme=ayu-mirage)](https://github.com/josue-lubaki/Application-Android) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Location-App&theme=ayu-mirage)](https://github.com/josue-lubaki/Location-App)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=App-Meteo&theme=ayu-mirage)](https://github.com/josue-lubaki/App-Meteo)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Application-Android&theme=ayu-mirage)](https://github.com/josue-lubaki/Application-Android)
 </p>
+
+<p>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Location-App&theme=ayu-mirage)](https://github.com/josue-lubaki/Location-App)
+</p>
+
 <br>
 <br>
 
