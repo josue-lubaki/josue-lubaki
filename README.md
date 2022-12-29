@@ -136,7 +136,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Location-App&theme=ayu-mirage)](https://github.com/josue-lubaki/Location-App) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Application-Android&theme=ayu-mirage)](https://github.com/josue-lubaki/Application-Android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Application-Android&theme=ayu-mirage)](https://github.com/josue-lubaki/Application-Android) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=TMBDClient&theme=ayu-mirage)](https://github.com/josue-lubaki/TMBDClient)
 </p>
 
 <br>
