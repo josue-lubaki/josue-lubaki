@@ -120,23 +120,23 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 ## Developpement Mobile Android
 <p> 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=ayu-mirage)](https://github.com/josue-lubaki/sapp) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=profile-cart&theme=ayu-mirage)](https://github.com/josue-lubaki/profile-cart) 
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppAndroid&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppAndroid) 
 </p>
 <p>
 	
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Quizzes&theme=ayu-mirage)](https://github.com/josue-lubaki/Quizzes) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=NotesApp&theme=ayu-mirage)](https://github.com/josue-lubaki/NotesApp)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=ayu-mirage)](https://github.com/josue-lubaki/sapp) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=coffee-masters&theme=ayu-mirage)](https://github.com/josue-lubaki/coffee-masters)
 </p>
 <p>
 	
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=App-Meteo&theme=ayu-mirage)](https://github.com/josue-lubaki/App-Meteo)
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=coffee-masters&theme=ayu-mirage)](https://github.com/josue-lubaki/coffee-masters)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Quizzes&theme=ayu-mirage)](https://github.com/josue-lubaki/Quizzes)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=TMBDClient&theme=ayu-mirage)](https://github.com/josue-lubaki/TMBDClient)
 </p>
 
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Application-Android&theme=ayu-mirage)](https://github.com/josue-lubaki/Application-Android) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=TMBDClient&theme=ayu-mirage)](https://github.com/josue-lubaki/TMBDClient)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Application-Android&theme=ayu-mirage)](https://github.com/josue-lubaki/Application-Android) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=NotesApp&theme=ayu-mirage)](https://github.com/josue-lubaki/NotesApp)
 </p>
 
 <br>
