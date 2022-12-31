@@ -48,13 +48,13 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 <p>
 	
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![wakatime](https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg)](https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![wakatime](https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg)](https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7)<br><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=josue-lubaki&style=flat-square&label=Views) <br>
 	
 </p>
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&textfill=ffffff&fill=3178c6&text=false)](https://www.linkedin.com/in/josue-lubaki/)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&textfill=ffffff&fill=d21f74&text=false)](https://www.instagram.com/josue_lubaki/)
+<!-- [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&textfill=ffffff&fill=3178c6&text=false)](https://www.linkedin.com/in/josue-lubaki/)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&textfill=ffffff&fill=d21f74&text=false)](https://www.instagram.com/josue_lubaki/) -->
 
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/) 
 [![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/josue_lubaki/) <br> -->
@@ -64,7 +64,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student in Quebec,<br> you can easily find me on my social networks
  -->
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=josue-lubaki&theme=onedark&rank=S,SS,SSS,AAA,AA,A&margin-w=15)](https://josue-lubaki.ca)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=josue-lubaki&theme=onedark&rank=S,SS,SSS,AAA,AA,A&margin-w=15)](https://josue-lubaki.ca) -->
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B)](https://github.com/josue-lubaki) -->
 
