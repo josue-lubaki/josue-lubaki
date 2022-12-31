@@ -30,8 +30,6 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spring&textfill=11924f&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&textfill=f3f3f3&fill=11924f&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=postman&textfill=ffffff&fill=ef5b25&text=false)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&textfill=ffffff&fill=3178c6&text=false)](https://www.linkedin.com/in/josue-lubaki/)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&textfill=ffffff&fill=d21f74&text=false)](https://www.instagram.com/josue_lubaki/)
 
 <!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=ed8da2&color=dd0031)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=fff&color=3178c6)
@@ -48,9 +46,16 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://img.shields.io/badge/Style-Scss-informational?style=flat&logo=Scss&logoColor=e6cbf5&color=cf649a)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=3178c6&color=3178c6) -->
 
+<p>
+	
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![wakatime](https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg)](https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=josue-lubaki&style=flat-square&label=Views) <br>
+	
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg)](https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7)<br>
-![](https://komarev.com/ghpvc/?username=josue-lubaki&style=flat-square&label=Views) <br>
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&textfill=ffffff&fill=3178c6&text=false)](https://www.linkedin.com/in/josue-lubaki/)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&textfill=ffffff&fill=d21f74&text=false)](https://www.instagram.com/josue_lubaki/)
+
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/) 
 [![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/josue_lubaki/) <br> -->
 <!-- [![github](https://img.shields.io/github/followers/josue-lubaki?logo=github&style=plastic)](https://github.com/osue-lubaki?tab=followers) -->
