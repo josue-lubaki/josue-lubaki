@@ -19,8 +19,21 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width=100%/> -->
 <img src="https://raw.githubusercontent.com/1976222027/1976222027/main/header_.png" width=100%/>
 
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&textfill=ffffff&fill=3178c6&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=redux&animation=spin&textfill=764abc&fill=ffffff&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Angular&textfill=ffffff&fill=dd0031&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=ffffff&fill=3178c6&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=fcdc00&fill=353535&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=kotlin&textfill=7f52ff&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=android&textfill=11924f&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&textfill=dd0031&fill=ffc6c6&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spring&textfill=11924f&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&textfill=f3f3f3&fill=11924f&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=postman&textfill=ffffff&fill=ef5b25&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&textfill=ffffff&fill=3178c6&text=false)](https://www.linkedin.com/in/josue-lubaki/)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=instagram&textfill=ffffff&fill=d21f74&text=false)](https://www.instagram.com/josue_lubaki/)
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=ed8da2&color=dd0031)
+<!-- ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=ed8da2&color=dd0031)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=fff&color=3178c6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=yellow&color=fcdc00)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=blue&color=3178c6)
@@ -33,11 +46,13 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=orange&color=orange)
 ![](https://img.shields.io/badge/Tool-XD_Adobe-informational?style=flat&logo=Xd%20Adobe&logoColor=pink&color=d21f74)<br>
 ![](https://img.shields.io/badge/Style-Scss-informational?style=flat&logo=Scss&logoColor=e6cbf5&color=cf649a)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=3178c6&color=3178c6)
-![](https://komarev.com/ghpvc/?username=josue-lubaki&style=flat-square&label=Views) <br>
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=3178c6&color=3178c6) -->
+
+
 [![wakatime](https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg)](https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7)<br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/) 
-[![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/josue_lubaki/) <br>
+![](https://komarev.com/ghpvc/?username=josue-lubaki&style=flat-square&label=Views) <br>
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=2ea1d4)](https://www.linkedin.com/in/josue-lubaki/) 
+[![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=d21f74)](https://www.instagram.com/josue_lubaki/) <br> -->
 <!-- [![github](https://img.shields.io/github/followers/josue-lubaki?logo=github&style=plastic)](https://github.com/osue-lubaki?tab=followers) -->
 <!-- ## Hi I'm Josue Lubaki 👋 [![Everything Is AWESOME](https://imgur.com/e1Ivyq4.png)](https://www.buymeacoffee.com/josue.lubaki "Buy me a coffee") -->
 <!-- 
