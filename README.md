@@ -46,11 +46,16 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://img.shields.io/badge/Style-Scss-informational?style=flat&logo=Scss&logoColor=e6cbf5&color=cf649a)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=3178c6&color=3178c6) -->
 
-<p>
+<!-- <p>
 	
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [![wakatime](https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg)](https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7)<br><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=josue-lubaki&style=flat-square&label=Views) <br>
 	
+</p> -->
+
+<p align="center">
+	<img src="https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg" alt="Josue-Lubaki" /> <br />
+	<img src="https://komarev.com/ghpvc/?username=josue-lubaki&label=Profile%20views&color=0e75b6&style=flat" alt="Josue-Lubaki" />
 </p>
 
 <!-- [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linkedin&textfill=ffffff&fill=3178c6&text=false)](https://www.linkedin.com/in/josue-lubaki/)
