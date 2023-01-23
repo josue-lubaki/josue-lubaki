@@ -137,13 +137,13 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 <p align="center">
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,c%23,C&langs_count=4&theme=react) &emsp;&emsp; -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,c%23,C&langs_count=4&theme=react) &emsp;&emsp;
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=480px height=380px/></a>
 
 </p>
 
 <!--  REPARTITION -->
-<!-- ## Developpement Mobile Android
+## Developpement Mobile Android
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=profile-cart&theme=ayu-mirage)](https://github.com/josue-lubaki/profile-cart) 
@@ -194,16 +194,16 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p>
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=awesome-interview&theme=ayu-mirage)](https://github.com/josue-lubaki/awesome-interview) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=UI-Design-Windows-Forms&theme=ayu-mirage)](https://github.com/josue-lubaki/UI-Design-Windows-Forms) 
-</p> -->
-
-<!--
-<p>
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Analyzer-JavaCC&theme=ayu-mirage)](https://github.com/josue-lubaki/Analyzer-JavaCC) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=J3-Analyzer&theme=ayu-mirage)](https://github.com/josue-lubaki/J3-Analyzer)
 </p>
--->
+
 
 <!-- <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-Client) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-server&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Analyzer-JavaCC&theme=ayu-mirage)](https://github.com/josue-lubaki/Analyzer-JavaCC) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=J3-Analyzer&theme=ayu-mirage)](https://github.com/josue-lubaki/J3-Analyzer)
 </p> -->
+
+
+<p>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-Client) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-server&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-server)
+</p>
