@@ -162,7 +162,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=CourseGoalApp&theme=ayu-mirage)](https://github.com/josue-lubaki/CourseGoalApp) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=NotesApp&theme=ayu-mirage)](https://github.com/josue-lubaki/NotesApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=CourseGoalApp&theme=ayu-mirage)](https://github.com/josue-lubaki/CourseGoalApp) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=BorutoApp&theme=ayu-mirage)](https://github.com/josue-lubaki/BorutoApp)
 </p>
 
 <br>
