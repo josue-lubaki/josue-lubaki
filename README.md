@@ -89,13 +89,10 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
   "profession": "Web Developer",
   "technologies": [
 	  "Java / SpringBoot",
-	  "JavaScript / nodeJS",
-	  "TypeScript",
-	  "Angular",
-	  "React / Redux",
 	  "Kotlin",
-	  "Jest",
-	  "AWS Lambda & S3"
+	  "React / Redux",
+	  "Angular",
+	  "TypeScript",
   ],
   "tools": [
 	"Visual Studio Code"
