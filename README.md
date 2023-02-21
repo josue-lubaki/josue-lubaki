@@ -141,10 +141,20 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 <!--  REPARTITION -->
 ## Developpement Mobile Android
+<p>
+	
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=BorutoApp&theme=ayu-mirage)](https://github.com/josue-lubaki/BorutoApp) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=JetGmail&theme=ayu-mirage)](https://github.com/josue-lubaki/JetGmail) 
+	
+</p>
+<p>
+	
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=TMBDClient&theme=ayu-mirage)](https://github.com/josue-lubaki/TMBDClient) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppAndroid&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppAndroid) 
+	
+</p>
 <p> 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=profile-cart&theme=ayu-mirage)](https://github.com/josue-lubaki/profile-cart) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppAndroid&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppAndroid) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=CompoZoo&theme=ayu-mirage)](https://github.com/josue-lubaki/CompoZoo) 
 </p>
 <p>
 	
@@ -154,13 +164,13 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p>
 	
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Quizzes&theme=ayu-mirage)](https://github.com/josue-lubaki/Quizzes)
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=TMBDClient&theme=ayu-mirage)](https://github.com/josue-lubaki/TMBDClient)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=CourseGoalApp&theme=ayu-mirage)](https://github.com/josue-lubaki/CourseGoalApp)
 </p>
 
-<p>
+<!-- <p>
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=CourseGoalApp&theme=ayu-mirage)](https://github.com/josue-lubaki/CourseGoalApp) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=BorutoApp&theme=ayu-mirage)](https://github.com/josue-lubaki/BorutoApp)
-</p>
+</p> -->
 
 <br>
 <br>
