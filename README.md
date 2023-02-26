@@ -54,7 +54,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 </p> -->
 
 <p align="center">
-	<img src="https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg" alt="Josue-Lubaki" /> <br />
+	<a href="https://wakatime.com/@020278ff-8c14-4ca6-92d3-7730ea5f4dd7"><img src="https://wakatime.com/badge/user/020278ff-8c14-4ca6-92d3-7730ea5f4dd7.svg" alt="Josue-Lubaki" /></a> <br />
 	<img src="https://komarev.com/ghpvc/?username=josue-lubaki&label=Profile%20views&color=0e75b6&style=flat" alt="Josue-Lubaki" />
 </p>
 
