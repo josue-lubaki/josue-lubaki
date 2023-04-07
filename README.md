@@ -28,7 +28,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Angular&textfill=ffffff&fill=dd0031&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=ffffff&fill=3178c6&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=fcdc00&fill=353535&text=false)](https://github.com/harish-sethuraman/readme-components) -->
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=kotlin&textfill=7f52ff&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=android&textfill=11924f&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&textfill=dd0031&fill=ffc6c6&text=false)](https://github.com/harish-sethuraman/readme-components)
