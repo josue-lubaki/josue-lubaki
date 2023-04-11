@@ -20,7 +20,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <!-- <img src="https://raw.githubusercontent.com/1976222027/1976222027/main/header_.png" width=100%/> -->
 <img src="https://i.imgur.com/wcDXLFd.gif" width=100% />
 
-<p align="center"> Android Developer </p>
+<p align="center"> <b>Android Developer</b> </p>
 <p></p>
 
 <!-- [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&textfill=ffffff&fill=3178c6&text=false)](https://github.com/harish-sethuraman/readme-components)
