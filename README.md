@@ -171,7 +171,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p>
 	
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Quizzes&theme=ayu-mirage)](https://github.com/josue-lubaki/Quizzes)
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=CourseGoalApp&theme=ayu-mirage)](https://github.com/josue-lubaki/CourseGoalApp)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=KMovies&theme=ayu-mirage)]([https://github.com/josue-lubaki/CourseGoalApp](https://github.com/josue-lubaki/KMovies))
 </p>
 
 <!-- <p>
