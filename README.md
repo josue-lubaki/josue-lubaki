@@ -155,7 +155,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 </p>
 <p>
 	
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=TMBDClient&theme=ayu-mirage)](https://github.com/josue-lubaki/TMBDClient) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppAndroid&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppAndroid) 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=KMovies&theme=ayu-mirage)](https://github.com/josue-lubaki/KMovies) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=FishAppAndroid&theme=ayu-mirage)](https://github.com/josue-lubaki/FishAppAndroid) 
 	
 </p>
 <p> 
@@ -171,7 +171,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p>
 	
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Quizzes&theme=ayu-mirage)](https://github.com/josue-lubaki/Quizzes)
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=KMovies&theme=ayu-mirage)](https://github.com/josue-lubaki/KMovies)
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=TMBDClient&theme=ayu-mirage)](https://github.com/josue-lubaki/TMBDClient)
 </p>
 
 <!-- <p>
