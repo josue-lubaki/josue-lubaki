@@ -82,7 +82,8 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B)](https://github.com/josue-lubaki) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B&area=true&area_color=13A830)](https://github.com/josue-lubaki)
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=josue-lubaki&theme=react-dark&custom_title=Josue%20Lubaki%20Contributions&point=13A830&line=22423B&area=true&area_color=13A830)](https://github.com/josue-lubaki) -->
 
 <!-- 
 - 🤔 I'm a jack of all trades
@@ -139,14 +140,18 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=josue-lubaki&count_private=true&show_icons=true&border_color=F5C473&theme=react" /> -->
 	
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+
+
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,c%23,C&langs_count=4&theme=react) &emsp;&emsp;
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,c%23,C&langs_count=4&theme=react) &emsp;&emsp; -->
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=480px height=380px/></a>
 
 </p>
 
 <!--  REPARTITION -->
+<!--
 ## Developpement Mobile Android
 <p>
 	
@@ -179,6 +184,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=CourseGoalApp&theme=ayu-mirage)](https://github.com/josue-lubaki/CourseGoalApp) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=BorutoApp&theme=ayu-mirage)](https://github.com/josue-lubaki/BorutoApp)
 </p> -->
 
+<!--
 <br>
 <br>
 
@@ -216,7 +222,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Analyzer-JavaCC&theme=ayu-mirage)](https://github.com/josue-lubaki/Analyzer-JavaCC) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=J3-Analyzer&theme=ayu-mirage)](https://github.com/josue-lubaki/J3-Analyzer)
 </p> -->
 
-
+<!--
 <p>
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-Client) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=YoChat-server&theme=ayu-mirage)](https://github.com/josue-lubaki/YoChat-server)
