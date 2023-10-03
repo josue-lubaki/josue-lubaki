@@ -21,7 +21,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <img src="https://i.imgur.com/wcDXLFd.gif" width=100% />
 
 <p align="center">
-I am a junior mobile developer with experience in several areas of IT. I started exploring the world of IT in 2017 and have since gained expertise in Frontend, Backend, Database Management and most recently, Mobile Development.
+I am a mobile developer with experience in several areas of IT. I started exploring the world of IT in 2017 and have since gained expertise in Frontend, Backend, Database Management and most recently, Mobile Development.
 </p>
 
 <!-- <p align="center"> <b>Android Developer</b> </p>
