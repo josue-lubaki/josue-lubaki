@@ -23,6 +23,9 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <p align="center">
 I am a mobile developer with experience in several areas of IT. I started exploring the world of IT in 2017 and have since gained expertise in Frontend, Backend, Database Management and most recently, Mobile Development.
 </p>
+<p align="center">
+🌱 I’m currently learning iOS Development (SwiftUI)
+</p>
 
 <!-- <p align="center"> <b>Android Developer</b> </p>
 <p></p> -->
@@ -35,6 +38,7 @@ I am a mobile developer with experience in several areas of IT. I started explor
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=kotlin&textfill=7f52ff&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=android&textfill=11924f&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=swift&textfill=fe531e&fill=ffffff&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&textfill=dd0031&fill=ffc6c6&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spring&textfill=11924f&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mongodb&textfill=f3f3f3&fill=11924f&text=false)](https://github.com/harish-sethuraman/readme-components)
@@ -99,21 +103,21 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
   "profession": "Android Developer",
   "technologies": [
   	  "Kotlin / Ktor",
+	  "Swift",
 	  "Java / SpringBoot",
 	  "React / Redux",
-	  "TypeScript",
-	  "Angular",
+	  "TypeScript"
   ],
   "tools": [
 	"Visual Studio Code"
 	"Android Studio",
+	"XCode",
 	"IntelliJ",
-	"Postman",
+	"Postman"
   ],
   "development": [
-	  "Application Mobile (Android)",
-	  "Backend - REST API",
-	  "Frontend (website)"
+	  "Application Mobile (Android), KMP, iOS",
+	  "Backend - REST API"
   ],
   "country": "Canada"
 }
