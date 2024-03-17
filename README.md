@@ -35,7 +35,7 @@ I am a mobile developer with experience in several areas of IT. I started explor
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Angular&textfill=ffffff&fill=dd0031&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&textfill=ffffff&fill=3178c6&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&textfill=fcdc00&fill=353535&text=false)](https://github.com/harish-sethuraman/readme-components) -->
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=kotlin&textfill=7f52ff&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=android&textfill=11924f&fill=f3f3f3&text=false)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=swift&textfill=fe531e&fill=ffffff&text=false)](https://github.com/harish-sethuraman/readme-components)
