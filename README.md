@@ -188,6 +188,20 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=CourseGoalApp&theme=ayu-mirage)](https://github.com/josue-lubaki/CourseGoalApp) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=BorutoApp&theme=ayu-mirage)](https://github.com/josue-lubaki/BorutoApp)
 </p>
 
+<br>
+<br>
+
+## Developpement Mobile iOS
+
+<p>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Hike&theme=ayu-mirage)](https://github.com/josue-lubaki/Hike) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=GH-Followers&theme=ayu-mirage)](https://github.com/josue-lubaki/GH-Followers)
+</p>
+
+<p>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ios-netflix-clone&theme=ayu-mirage)](https://github.com/josue-lubaki/ios-netflix-clone)
+</p>
 
 <br>
 <br>
