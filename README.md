@@ -149,7 +149,7 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 <p align="center">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,C,scss,python,css,shell,C%2B%2B,Batchfile,Dockerfile,Scala,Roff,Handlebars,Mako&langs_count=5&theme=react) &emsp;&emsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-lubaki&hide=jupyter%20Notebook,html,C,scss,python,css,shell,C%2B%2B,Ruby,Procfile,Batchfile,Dockerfile,Scala,Roff,Handlebars,Mako&langs_count=5&theme=react) &emsp;&emsp;
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@josue_lubaki/ecedd431-e655-47bd-8be5-e270da67014a.png" width=480px height=380px/></a>
 
 </p>
