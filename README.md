@@ -200,7 +200,12 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ios-netflix-clone&theme=ayu-mirage)](https://github.com/josue-lubaki/ios-netflix-clone) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=GH-Followers&theme=ayu-mirage)](https://github.com/josue-lubaki/GH-Followers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=grocery&theme=ayu-mirage)](https://github.com/josue-lubaki/grocery) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=GH-Followers&theme=ayu-mirage)](https://github.com/josue-lubaki/GH-Followers)
+</p>
+
+<p>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ios-netflix-clone&theme=ayu-mirage)](https://github.com/josue-lubaki/ios-netflix-clone)
 </p>
 </p>
 
