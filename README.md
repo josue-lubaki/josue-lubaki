@@ -205,8 +205,9 @@ Hi I'm Josue Lubaki 👋 currently a Baccalaureate in Computer Science student i
 
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ios-netflix-clone&theme=ayu-mirage)](https://github.com/josue-lubaki/ios-netflix-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=Paws&theme=ayu-mirage)](https://github.com/josue-lubaki/Paws) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=ios-netflix-clone&theme=ayu-mirage)](https://github.com/josue-lubaki/ios-netflix-clone)
 </p>
+
 </p>
 
 <br>
